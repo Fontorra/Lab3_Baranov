@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(184,9): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(177): message : во время компиляции функции-члена класс шаблон "BinaryTreeSearch<int>::BinaryTreeSearch(const BinaryTreeSearch<int> &)"
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\Source.cpp(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "BinaryTreeSearch<int>::BinaryTreeSearch(const BinaryTreeSearch<int> &)"
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\Source.cpp(89): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinaryTreeSearch<int>"
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(423): warning C4715: BinaryTreeSearch<int>::doInsert: значение возвращается не при всех путях выполнения
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(336): warning C4715: BinaryTreeSearch<int>::doFind: значение возвращается не при всех путях выполнения
+  Lab3New.vcxproj -> C:\Users\Даниил\source\repos\Lab3New\Debug\Lab3New.exe

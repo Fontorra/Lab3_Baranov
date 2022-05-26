@@ -1,0 +1,4 @@
+﻿  SetTests.cpp
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(336): warning C4715: BinaryTreeSearch<int>::doFind: значение возвращается не при всех путях выполнения
+C:\Users\Даниил\source\repos\Lab3New\Lab3New\BinaryTreeSearch.h(423): warning C4715: BinaryTreeSearch<int>::doInsert: значение возвращается не при всех путях выполнения
+  SetTests.vcxproj -> C:\Users\Даниил\source\repos\Lab3New\Debug\SetTests.dll
